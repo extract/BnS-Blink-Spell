@@ -1,16 +1,33 @@
 {
-  "$type": "BS.LevelData, Assembly-CSharp",
-  "id": "Master",
-  "version": 2,
-  "modes": [
-    {
-      "name": "Default",
-      "modules": [
-        {
-        	// Namespace.ClassName, Assembly (DLL file name)
-          "$type": "BlinkSpell.Spell_Blink, BlinkSpell"
-        }
-      ]
-    }
-  ]
+  "$type": "BlinkSpell.Spell_Blink, BlinkSpell",
+  "id": "Blink",
+  "version": 0,
+  
+  "caption": "Blink",
+  "runeString": "b",
+  "imageColor": {
+    "a": 1.0,
+    "r": 0.3803922,
+    "g": 0.788235366,
+    "b": 0.7686275
+  },
+  "rimColor": {
+    "a": 1.0,
+    "r": 0.6117647,
+    "g": 0.9058824,
+    "b": 0.8941177
+  },
+  "innerColor": {
+    "a": 1.0,
+    "r": 0.3803922,
+    "g": 0.788235366,
+    "b": 0.7686275
+  },
+  "audioContainerPath": "",
+  "audioPitch": 1.0,
+  "castType": 0,
+  "minMana": 30.0,
+  "manaConsumption": 25.0,
+  "manaWaste": 12.0,
+  "level": 0
 }
