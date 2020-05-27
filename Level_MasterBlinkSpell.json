@@ -1,0 +1,16 @@
+{
+  "$type": "BS.LevelData, Assembly-CSharp",
+  "id": "Master",
+  "version": 2,
+  "modes": [
+    {
+      "name": "Default",
+      "modules": [
+        {
+        	// Namespace.ClassName, Assembly (DLL file name)
+          "$type": "BlinkSpell.Level_MasterBlinkSpell, BlinkSpell"
+        }
+      ]
+    }
+  ]
+}
