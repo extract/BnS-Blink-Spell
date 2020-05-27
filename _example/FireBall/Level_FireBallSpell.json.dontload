@@ -1,0 +1,15 @@
+{
+  "$type": "BS.LevelData, Assembly-CSharp",
+  "id": "Master",
+  "version": 2,
+  "modes": [
+    {
+      "name": "Default",
+      "modules": [
+        {
+          "$type": "FireBall.FireBallSpell, FireBall"
+        }
+      ]
+    }
+  ]
+}

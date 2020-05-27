@@ -1,0 +1,11 @@
+{
+  "$type": "BS.CreatureData, Assembly-CSharp",
+  "id": "PlayerDefault",
+  "version": 5,
+  "spells": [
+    {
+      "spellID": "FireBallSpell",
+      "level": 0
+    }
+  ]
+}
