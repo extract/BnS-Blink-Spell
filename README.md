@@ -1,3 +1,3 @@
 # BnS-Blink-Spell
 ayy
-bo[
+bo[ Cock
